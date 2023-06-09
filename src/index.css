@@ -252,7 +252,6 @@ main {
   color: var(--clr-primary-5);
   background: var(--clr-primary-10);
   padding: 0.25rem 0.5rem;
-  border-radius: var(--radius);
   right: 0;
   top: 1;
   z-index: 10;
